@@ -1,0 +1,7 @@
+.link {
+    @apply text-slate-100;
+}
+
+.active-link {
+    @apply bg-cyan-800 px-4 py-1 rounded;
+}
